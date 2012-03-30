@@ -12,9 +12,9 @@ def main():
     x = True
     y = False
     print add(a, b)
-    print mul(x, y)
+    print mul(a, b)
     print and_(x, y)
-    print or_(a, b)
+    print or_(x, y)
 
 if __name__ == "__main__":
     main()

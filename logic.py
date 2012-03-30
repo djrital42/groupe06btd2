@@ -3,9 +3,9 @@
 
 def and_(i, j):
     """fonction and_"""
-    return None
+    return (i and j)
 
 
 def or_(k, l):
     """fonction or_"""
-    return None
+    return (k or l)

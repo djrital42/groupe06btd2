@@ -3,8 +3,8 @@
 
 def add(i, j):
     """fonction add"""
-    return None
+    return i+j
 
 def mul(k, l):
     """fonction multiplier"""
-    return None
+    return k*l

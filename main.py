@@ -2,7 +2,8 @@
 from operators import add, mul
 from logic import and_, or_
 
-def main() :
+
+def main():
     """fonction main"""
 
     print "My application starts..."
@@ -14,6 +15,6 @@ def main() :
     print mul(x, y)
     print and_(x, y)
     print or_(a, b)
-    
-if __name__ == "__main__" :
+
+if __name__ == "__main__":
     main()
